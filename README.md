@@ -2,7 +2,9 @@
 1. In this homework, I created an **index.html** to show the filtered data based on the condition that inputed by the user.
 ### Level 1:
 2. In level 1, only one condition put in is date to filter. 
+
  ![](UFO-level-2/static/images/level1_ui.png)
+ 
 3. The user just input the date to filter the data from **data.js**.
 
 ### Level 2:
